@@ -1,0 +1,41 @@
+#  leaflet-challenge
+
+
+
+
+## Description
+The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it
+
+
+
+## Table of Contents
+- [Installation](#installation)
+
+- [Credits](#credits)
+
+- [Features](#features)
+- [Tests](#tests)
+- [Contact](#contact)
+
+## Installation
+html, javascript
+
+
+
+## Credits
+khristopher prince
+
+
+
+## Features
+the popups that were added, provide additional information about the earthquake when its associated marker is clicked. A legend that provides context of  map data.
+
+## Tests
+visualization 
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: khris51](https://github.com/khris51)
+##### [email: khris51@yahoo.com](mailto:khris51@yahoo.com)
+
+
