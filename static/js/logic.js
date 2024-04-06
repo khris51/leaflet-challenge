@@ -42,7 +42,7 @@ function getColor(magnitude) {
          magnitude > 3 ? '#800080' :
          magnitude > 2 ? '#800000' :
          magnitude > 1 ? '#0000FF' :
-                         '#1a9850';
+                         '#87007F';
 }
 
 // Adding a legend
@@ -64,3 +64,4 @@ legend.onAdd = function() {
 };
 
 legend.addTo(myMap);
+
