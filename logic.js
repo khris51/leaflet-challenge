@@ -44,7 +44,7 @@ let baseLayers = {
 // Create a layer group for overlays
 let overlays = {
   "Tectonic Plates": L.geoJSON()
-  // Earthquakes: L.geoJSON(),
+  //  Earthquakes: L.geoJSON(),
 };
 
 // Add tectonic plate boundaries data to the overlays
